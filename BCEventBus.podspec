@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "iOS BCEventBus"
   s.description      = <<-DESC.gsub(/^\s*\|?/,'')
-                       An optional longer description of
+                       An optional longer description of BCEventBus
 
                        | * Markdown format.
                        | * Don't worry about the indent, we strip it!
